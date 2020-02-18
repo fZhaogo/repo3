@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<teachers>
+    <teacher id = "1">
+        <name>jack</name>
+        <gender>男</gender>
+        <salary>8000</salary>
+    </teacher>
+
+    <teacher id = "2">
+        <name>marry</name>
+        <gender>女</gender>
+        <salary>6000</salary>
+    </teacher>
+</teachers>

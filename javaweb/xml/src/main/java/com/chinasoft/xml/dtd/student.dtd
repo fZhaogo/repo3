@@ -1,0 +1,6 @@
+<!ELEMENT students (student*) > <!-- 根标签为students,子标签可以有多个student标签-->
+<!ELEMENT student (name,age,sex)>   <!-- student中的标签包含 name,age,sex这三个子标签 -->
+<!ELEMENT name (#PCDATA)>   <!-- name的值为字符串-->
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT sex (#PCDATA)>
+<!ATTLIST student number ID #REQUIRED>  <!--ATTLIST:属性 number：数字 #REQUIRED：必填 student后面必须接上一个id属性值为数字-->
