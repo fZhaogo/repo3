@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ec253d1-5126-442d-9460-44e72ac85892" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/helloJava/helloJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/helloJava/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/helloJava/src/main/java/helloJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/helloJava/src/main/main1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/helloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/src/main/java/com/chinasoft/prjo/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/src/main/java/com/chinasoft/springTemplate/SpringTemplateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/src/main/java/com/chinasoft/utils/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/src/main/resources/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/src/test/java/com/chinasoft/springTemplateTest/JdbcTemplateDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/target/classes/META-INF/helloWorld.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/target/classes/com/chinasoft/prjo/Emp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/target/classes/com/chinasoft/springTemplate/SpringTemplateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/target/classes/com/chinasoft/utils/JDBCUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/target/classes/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloWorld/target/test-classes/com/chinasoft/springTemplateTest/JdbcTemplateDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/idea_workspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/Maven__com_alibaba_druid_1_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/Maven__org_apache_logging_log4j_log4j_2_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/Maven__org_springframework_spring_beans_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/Maven__org_springframework_spring_core_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/Maven__org_springframework_spring_tx_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/c3p0_0_9_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/druid_1_0_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/mchange_commons_java_0_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/mysql_connector_java_5_1_37_bin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/mysql_connector_java_5_1_37_bin__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/spring_beans_5_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/spring_beans_5_0_0_RELEASE_sources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/spring_beans_5_0_0_RELEASE_sources__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/spring_beans_5_0_0_RELEASE_sources__3_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/spring_core_5_0_0_RELEASE_sources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/spring_jdbc_5_0_0_RELEASE_sources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/libraries/spring_tx_5_0_0_RELEASE_sources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/libs/mysql-connector-java-5.1.37-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/Hello/Hellow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day01/META-INF/jdbc-day01.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day01/com/chinasoft/jdbc/Emp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day01/com/chinasoft/jdbc/JDBCUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day01/com/chinasoft/jdbc/JdbcDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day01/com/chinasoft/jdbc/JdbcDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day01/com/chinasoft/jdbc/JdbcDemo3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day01/com/chinasoft/jdbc/JdbcDemo4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day01/com/chinasoft/jdbc/JdbcDemo5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day01/com/chinasoft/jdbc/JdbcDemo6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day01/com/chinasoft/jdbc/JdbcDemo7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day01/com/chinasoft/jdbc/JdbcDemo8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day01/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day02/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day02/com/chinasoft/c3p0/C3P0Demo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day02/com/chinasoft/c3p0/C3P0Demo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day02/com/chinasoft/druid/DruidDemo1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day02/com/chinasoft/druid/DruidDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day02/com/chinasoft/prjo/Dept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day02/com/chinasoft/prjo/Emp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day02/com/chinasoft/springTemplate/JdbcTemplateDemo2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day02/com/chinasoft/springTemplate/JdbcTemplateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day02/com/chinasoft/springTemplate/SpringTemplateDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day02/com/chinasoft/utils/JDBCUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/out/production/jdbc-day02/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/src/com/chinasoft/jdbc/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/src/com/chinasoft/jdbc/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/src/com/chinasoft/jdbc/JdbcDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/src/com/chinasoft/jdbc/JdbcDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/src/com/chinasoft/jdbc/JdbcDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/src/com/chinasoft/jdbc/JdbcDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/src/com/chinasoft/jdbc/JdbcDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/src/com/chinasoft/jdbc/JdbcDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/src/com/chinasoft/jdbc/JdbcDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/src/com/chinasoft/jdbc/JdbcDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/jdbc-day02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/libs/c3p0-0.9.5.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/libs/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/libs/druid-1.0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/libs/mchange-commons-java-0.2.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/libs/mysql-connector-java-5.1.37-bin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/libs/spring-beans-5.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/libs/spring-core-5.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/libs/spring-jdbc-5.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/libs/spring-tx-5.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/src/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/src/com/chinasoft/c3p0/C3P0Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/src/com/chinasoft/c3p0/C3P0Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/src/com/chinasoft/druid/DruidDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/src/com/chinasoft/druid/DruidDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/src/com/chinasoft/prjo/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/src/com/chinasoft/prjo/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/src/com/chinasoft/springTemplate/JdbcTemplateDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/src/com/chinasoft/springTemplate/JdbcTemplateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/src/com/chinasoft/springTemplate/SpringTemplateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/src/com/chinasoft/utils/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaweb/jdbc-day02/src/druid.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello/Hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaweb/jdbc-day01/jdbc-day01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello/src/Hellow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello/src/aaa.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaweb/jdbc-day01/src/com/chinasoft/jdbc/JdbcDemo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-44">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="577" />
+    <option name="y" value="415" />
+    <option name="width" value="1265" />
+    <option name="height" value="614" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ec253d1-5126-442d-9460-44e72ac85892" name="Default Changelist" comment="" />
+      <created>1581997980699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581997980699</updated>
+      <workItem from="1581997982268" duration="1475000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1475000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="462" y="332" width="1012" height="491" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494759" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/javaweb/jdbc-day01/src/com/chinasoft/jdbc/JdbcDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>idea_workspace</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
