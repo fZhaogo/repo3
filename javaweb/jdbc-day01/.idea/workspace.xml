@@ -22,10 +22,9 @@
         <entry file="file://$PROJECT_DIR$/../xml/src/main/java/com/chinasoft/jsoup/JsoupTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="53">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#387#396#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -34,7 +33,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../xml/src/main/java/com/chinasoft/jsoup/Teacher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-66">
+            <state relative-caret-position="66">
               <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               <folding>
                 <element signature="e#348#349#0" expanded="true" />
@@ -166,10 +165,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="207" />
-    <option name="y" value="277" />
-    <option name="width" value="1413" />
-    <option name="height" value="707" />
+    <option name="x" value="446" />
+    <option name="y" value="285" />
+    <option name="width" value="1414" />
+    <option name="height" value="708" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -180,8 +179,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,7 +283,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -400,6 +399,7 @@
       <workItem from="1581754710464" duration="3510000" />
       <workItem from="1581991966411" duration="2943000" />
       <workItem from="1582004039772" duration="17254000" />
+      <workItem from="1582025826929" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1581992955768</created>
@@ -458,13 +458,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87249000" />
+    <option name="totallyTimeSpent" value="87293000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="166" y="222" width="1130" height="565" extended-state="0" />
+    <frame x="357" y="228" width="1131" height="566" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23880596" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24324325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -593,12 +593,7 @@
     <entry file="file://$PROJECT_DIR$/../Hello/src/Hellow.java" />
     <entry file="file://$PROJECT_DIR$/../../Hello/src/aaa.txt" />
     <entry file="file://$PROJECT_DIR$/../../Hello/src/Hellow.java" />
-    <entry file="file://$PROJECT_DIR$/../xml/src/main/java/com/chinasoft/xml/student.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../xml/src/main/java/com/chinasoft/xml/student.dtd">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../xml/src/main/java/com/chinasoft/xml/student.dtd" />
     <entry file="file://$PROJECT_DIR$/../jdbc-day02/src/c3p0-config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
@@ -606,14 +601,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../xml/src/main/java/com/chinasoft/xml/student.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../xml/src/main/java/com/chinasoft/xml/student.xml" />
     <entry file="file://$PROJECT_DIR$/../xml/src/main/java/com/chinasoft/xml/dtd/student.dtd">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -838,9 +826,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../xml/src/main/java/com/chinasoft/xml/xsd/application_mvc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xml/src/main/java/com/chinasoft/jsoup/JsoupTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../xml/src/main/java/com/chinasoft/jsoup/Teacher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-66">
+        <state relative-caret-position="66">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
           <folding>
             <element signature="e#348#349#0" expanded="true" />
@@ -855,20 +856,6 @@
             <element signature="e#651#652#0" expanded="true" />
             <element signature="e#695#696#0" expanded="true" />
             <element signature="e#731#732#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../xml/src/main/java/com/chinasoft/xml/xsd/application_mvc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../xml/src/main/java/com/chinasoft/jsoup/JsoupTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#387#396#0" expanded="true" />
           </folding>
         </state>
       </provider>
