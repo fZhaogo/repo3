@@ -6,13 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="helloJava" />
-        <module name="xml" />
+        <module name="response" />
+        <module name="login" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="helloJava" target="1.8" />
       <module name="helloWorld" target="1.8" />
+      <module name="login" target="1.8" />
+      <module name="practise1" target="1.5" />
+      <module name="response" target="1.7" />
       <module name="xml" target="1.5" />
     </bytecodeTargetLevel>
   </component>

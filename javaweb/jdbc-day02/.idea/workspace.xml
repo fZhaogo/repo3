@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d37adca7-89a0-4af0-8db2-f36ce7a4f32e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../helloWorld/target/classes/com/chinasoft/prjo/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloWorld/target/classes/com/chinasoft/springTemplate/SpringTemplateDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloWorld/target/classes/com/chinasoft/utils/JDBCUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloWorld/target/test-classes/com/chinasoft/springTemplateTest/JdbcTemplateDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc-day01/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/Maven__com_alibaba_druid_1_1_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/Maven__org_apache_logging_log4j_log4j_2_12_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/Maven__org_springframework_spring_beans_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/Maven__org_springframework_spring_core_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/Maven__org_springframework_spring_tx_5_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/c3p0_0_9_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/c3p0_0_9_5_2__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/druid_1_0_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/druid_1_0_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/mchange_commons_java_0_2_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/mysql_connector_java_5_1_37_bin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/mysql_connector_java_5_1_37_bin__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/spring_beans_5_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/spring_beans_5_0_0_RELEASE_sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/spring_beans_5_0_0_RELEASE_sources__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/spring_beans_5_0_0_RELEASE_sources__3_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/spring_core_5_0_0_RELEASE_sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/spring_jdbc_5_0_0_RELEASE_sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/libraries/spring_tx_5_0_0_RELEASE_sources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc-day01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc-day01/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc-day01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/jdbc-day01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/out/production/Hello/Hellow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/out/production/jdbc-day01/META-INF/jdbc-day01.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/out/production/jdbc-day01/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/out/production/jdbc-day02/com/chinasoft/c3p0/C3P0Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/out/production/jdbc-day02/com/chinasoft/c3p0/C3P0Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/out/production/jdbc-day02/com/chinasoft/druid/DruidDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/out/production/jdbc-day02/com/chinasoft/druid/DruidDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/out/production/jdbc-day02/com/chinasoft/prjo/Dept.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/out/production/jdbc-day02/com/chinasoft/prjo/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/out/production/jdbc-day02/com/chinasoft/springTemplate/JdbcTemplateDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/out/production/jdbc-day02/com/chinasoft/springTemplate/JdbcTemplateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/out/production/jdbc-day02/com/chinasoft/springTemplate/SpringTemplateDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc-day01/out/production/jdbc-day02/com/chinasoft/utils/JDBCUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xml/target/classes/com/chinasoft/jsoup/JsoupDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xml/target/classes/com/chinasoft/jsoup/JsoupDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xml/target/classes/com/chinasoft/jsoup/JsoupTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xml/target/classes/com/chinasoft/jsoup/Teacher.class" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="570" />
+    <option name="y" value="85" />
+    <option name="width" value="1315" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d37adca7-89a0-4af0-8db2-f36ce7a4f32e" name="Default Changelist" comment="" />
+      <created>1582195227946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582195227946</updated>
+      <workItem from="1582195229132" duration="22000" />
+      <workItem from="1582195276029" duration="33000" />
+      <workItem from="1582195704509" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="456" y="68" width="1052" height="648" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25955734" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
